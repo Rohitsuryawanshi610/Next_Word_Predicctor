@@ -1,6 +1,6 @@
 # Next_Word_Predicctor
 
-#Project Overview
+# Project Overview
 A "Next Word Predictor" is a natural language processing (NLP) application that predicts the most likely word or phrase that should follow a given input text or sequence of words. It's a tool commonly used in various NLP applications and can have several use cases, including text generation, auto-completion, and language modeling.
 1.The primary purpose of a next word predictor is to assist users in completing sentences or generating coherent text.
 2.It analyzes the context of the input text and predicts the word or phrase that is most likely to come next based on the patterns and probabilities learned from a large dataset.
@@ -13,7 +13,7 @@ Machine Learning/NLP: TensorFlow
 Text Processing: NLTK  (for natural language processing tasks)
 Data Acquisition: Depending on the nature of your project, you may need to collect and preprocess a relevant dataset. This dataset would typically consist of text data for training your language model.
 
-#Future Work-
+# Future Work-
 For future work on your simplified "Next Word Predictor" project:
 Model Improvement: Continuously refine and fine-tune your language model to provide more accurate predictions.
 Data Expansion: Regularly update and expand your training dataset to improve the model's performance and adapt to evolving language usage.
